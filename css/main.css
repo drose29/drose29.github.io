@@ -1140,7 +1140,7 @@ pre .javascript .function {
   bottom: 30px;
 }
 .header {
-  background: transparent;
+  background: url("../image/wuyanzu.jpg");
 }
 .header-inner {
   position: relative;
@@ -1899,7 +1899,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7ed02e;
+  background: #b4ff1c;
 }
 .links-of-blogroll {
   font-size: 13px;
